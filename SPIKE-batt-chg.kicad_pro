@@ -326,6 +326,22 @@
     [
       "40189395-1355-465c-9381-a270b42186bd",
       ""
+    ],
+    [
+      "67c7df3f-938a-4452-afe2-b5005c69cda5",
+      "CN3702 Charger1"
+    ],
+    [
+      "e7eddfae-d441-4c45-b9ba-6ebb0b21318c",
+      "CN3702 Charger2"
+    ],
+    [
+      "36ba116f-a0c8-497d-9807-dbf482736395",
+      "CN3702 Charger3"
+    ],
+    [
+      "ccf8f1e1-eed5-4f34-a362-5f5ff1d7356b",
+      "CN3702 Charger4"
     ]
   ],
   "text_variables": {}
