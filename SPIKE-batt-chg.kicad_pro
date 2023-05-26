@@ -388,7 +388,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "JH"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -477,11 +479,11 @@
       "CN3702 Charger1"
     ],
     [
-      "555acf7d-f6c5-480f-aef3-8a3125872897",
+      "2ca84df8-0c87-4f75-8a1d-dbe9a9e908fc",
       "CN3702 Charger2"
     ],
     [
-      "de1e5fdf-00b3-4e23-ae34-e5cb804342e6",
+      "7c9abfe4-4b11-404b-8aa4-67235fb7e4c5",
       "CN3702 Charger3"
     ]
   ],
