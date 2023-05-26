@@ -1981,7 +1981,7 @@
     (property "Value" "NetTie_2" (at 93.98 112.395 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 92.71 110.49 0)
+    (property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm" (at 92.71 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 110.49 0)

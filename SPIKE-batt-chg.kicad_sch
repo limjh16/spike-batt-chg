@@ -1543,8 +1543,8 @@
     (property "Datasheet" "~" (at 69.85 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1ea33bc-87dc-4774-99d9-f8c3a8294e96))
-    (pin "2" (uuid 237ee1db-9b49-4788-829f-70447c03d251))
+    (pin "1" (uuid 374a6a9d-3128-43bb-82ee-f398f987bdac))
+    (pin "2" (uuid 81f6a266-0a9b-47ce-abbb-a24f6c1cb92e))
     (instances
       (project "SPIKE-batt-chg"
         (path "/40189395-1355-465c-9381-a270b42186bd"
@@ -1760,8 +1760,8 @@
     (property "Datasheet" "~" (at 58.42 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 83d242b0-3ac1-4f3e-90c3-ff45f6ca3302))
-    (pin "2" (uuid 150a6e17-8770-4941-8208-e55b34fb5b78))
+    (pin "1" (uuid da4f2bd4-fea4-4c6e-9a5d-17c2bcc0ad04))
+    (pin "2" (uuid ccd8e942-4c71-40dc-9b99-327bd58d6e68))
     (instances
       (project "SPIKE-batt-chg"
         (path "/40189395-1355-465c-9381-a270b42186bd"
@@ -1908,7 +1908,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 163.83 85.09 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid d8347a3e-0ba0-4e46-82cc-e8d0235cd845)
     (property "Reference" "J2" (at 163.83 77.47 0)
       (effects (font (size 1.27 1.27)))
