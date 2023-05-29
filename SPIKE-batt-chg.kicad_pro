@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.15,
-          "width": 0.3
+          "height": 0.4,
+          "width": 1.475
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -464,23 +464,27 @@
       },
       {
         "netclass": "Power",
-        "pattern": "GND"
+        "pattern": "*GND"
       },
       {
         "netclass": "Power",
-        "pattern": "VCC"
+        "pattern": "*VCC"
       },
       {
         "netclass": "Power",
-        "pattern": "+BATT"
+        "pattern": "*+BATT"
       },
       {
         "netclass": "Power",
-        "pattern": "CSP"
+        "pattern": "*CSP"
       },
       {
         "netclass": "Power",
-        "pattern": "BAT"
+        "pattern": "*BAT"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "*GNDA"
       }
     ]
   },
