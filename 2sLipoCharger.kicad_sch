@@ -1690,7 +1690,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Pin") (at 105.41 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37c7a00d-bed7-49d9-b62c-d821fdb396d0)
     (property "Reference" "J6" (at 106.045 90.17 0)
       (effects (font (size 1.27 1.27)))
