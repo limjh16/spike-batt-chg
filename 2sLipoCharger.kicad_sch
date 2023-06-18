@@ -1629,7 +1629,7 @@
     (property "Reference" "R9" (at 127 114.935 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0R" (at 127 117.475 0)
+    (property "Value" "100k" (at 127 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 122.682 115.57 90)
