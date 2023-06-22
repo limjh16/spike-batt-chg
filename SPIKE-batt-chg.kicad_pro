@@ -494,7 +494,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../Desktop/SPIKE-batt-chg.step",
+      "step": "3d Models/SPIKE-batt-chg.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

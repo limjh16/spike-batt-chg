@@ -682,6 +682,11 @@
       (net 63 "/CN3702 Charger3/CSP") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.1016) (tstamp df636242-a92d-49e6-9e4d-fa3a7063ad77))
     (pad "3" thru_hole circle (at 5.08 -0.127) (size 1.8796 1.8796) (drill 1.016) (layers "*.Cu" "*.Mask")
       (net 79 "Net-(JP4-B)") (pinfunction "B") (pintype "passive") (solder_mask_margin 0.1016) (tstamp b5707700-e779-42ed-b578-09f3e49ac7ac))
+    (model ":KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380" (layer "F.Cu")
@@ -799,6 +804,11 @@
       (net 36 "/CN3702 Charger1/CSP") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.1016) (tstamp 2ecc688a-fe68-4201-acd0-5a2e3d9174be))
     (pad "3" thru_hole circle (at 5.08 -0.127) (size 1.8796 1.8796) (drill 1.016) (layers "*.Cu" "*.Mask")
       (net 75 "Net-(JP2-B)") (pinfunction "B") (pintype "passive") (solder_mask_margin 0.1016) (tstamp 6c0e4397-a937-4a59-a70c-23b572a8befc))
+    (model ":KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380" (layer "F.Cu")
@@ -979,6 +989,11 @@
       (net 54 "/CN3702 Charger2/CSP") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.1016) (tstamp bf4aa183-6b82-4238-8bba-46220bc2d408))
     (pad "3" thru_hole circle (at 5.08 -0.127) (size 1.8796 1.8796) (drill 1.016) (layers "*.Cu" "*.Mask")
       (net 77 "Net-(JP3-B)") (pinfunction "B") (pintype "passive") (solder_mask_margin 0.1016) (tstamp fe76e24a-82d7-4e4c-86cc-20af53cf1cc6))
+    (model ":KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "Symbol:Symbol_Barrel_Polarity" (layer "F.Cu")
@@ -2989,6 +3004,11 @@
       (net 2 "GND") (pintype "passive") (tstamp 33152698-17e8-47ab-8388-7a02660c213c))
     (pad "3" thru_hole roundrect (at -3 -4.572 180) (size 3.5 3.5) (drill oval 3 1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
       (net 69 "unconnected-(J2-Pad3)") (pintype "passive") (tstamp 53da8e82-1900-4aa7-b417-709dc5db231f))
+    (model "${KIPRJMOD}/3d Models/DC Power Jack 5.5mm x 2.1mm.STEP"
+      (offset (xyz -10.4 0 6.2))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
+    )
   )
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "B.Cu")
@@ -6516,6 +6536,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/3d Models/USB Type C Port (SMD Type).STEP"
+      (offset (xyz 0 3.6 1.58))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 180))
     )
   )
 
