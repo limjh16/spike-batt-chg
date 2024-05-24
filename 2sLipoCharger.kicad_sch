@@ -4208,6 +4208,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25803"
+			(at 124.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4257304-80bc-4339-860b-e32e0858ba70")
 		)
